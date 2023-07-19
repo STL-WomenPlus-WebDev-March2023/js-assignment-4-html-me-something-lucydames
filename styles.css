@@ -1,12 +1,23 @@
 /* Write your CSS here! */
+#mainHeading {
+    color: red;
+  }  
+
+  .funParagraph {
+    color: green;
+    text-align: center;
+    font-size: 50px;;
+    margin-top: -75px;
+  }
+
 body {
+    margin: 8px;
     background-color: #7ad9e8; /* Replace with your desired color */
   }
 
 h1 {
     color: rgb(175, 19, 214);
     font-family: cursive;
-    text-decoration: underline;
     font-size: 100px;
     margin-top: 50px;
     margin-bottom: -25px;
@@ -14,9 +25,10 @@ h1 {
 }
 
 h2 {
-    color:rgb(16, 41, 187);
+    color:rgb(207, 119, 11);
     font-size: 50px;
     text-align: center;
+    padding: 15px;
 }
 
 h3 {
@@ -75,5 +87,4 @@ img {
     align-items: center;
     margin-bottom: 50px;
   }
-  
   
