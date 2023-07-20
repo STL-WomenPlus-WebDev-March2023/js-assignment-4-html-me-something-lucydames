@@ -10,6 +10,23 @@
     margin-top: -75px;
   }
 
+
+  .colored-box {
+background-color: #e8dae5;
+padding: 10px; 
+margin-left: 110px;
+margin-right: 110px;
+display: inline-block; 
+}
+
+  .bottom-photos {
+     padding: 50px;
+  }
+
+  #underline {
+text-decoration: underline;
+}
+
 body {
     margin: 8px;
     background-color: #7ad9e8; /* Replace with your desired color */
