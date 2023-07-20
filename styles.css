@@ -1,1 +1,107 @@
 /* Write your CSS here! */
+#mainHeading {
+    color: red;
+  }  
+
+  .funParagraph {
+    color: green;
+    text-align: center;
+    font-size: 50px;;
+    margin-top: -75px;
+  }
+
+
+  .colored-box {
+background-color: #e8dae5;
+padding: 10px; 
+margin-left: 110px;
+margin-right: 110px;
+display: inline-block; 
+}
+
+  .bottom-photos {
+     padding: 50px;
+  }
+
+  #underline {
+text-decoration: underline;
+}
+
+body {
+    margin: 8px;
+    background-color: #7ad9e8; /* Replace with your desired color */
+  }
+
+h1 {
+    color: red;
+    font-family: cursive;
+    font-size: 100px;
+    margin-top: 50px;
+    margin-bottom: -25px;
+    text-align: center;
+}
+
+h2 {
+    color:rgb(207, 119, 11);
+    font-size: 50px;
+    text-align: center;
+    padding: 15px;
+}
+
+h3 {
+    color:rgb(16, 41, 187);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h4 {
+    color:rgb(175, 19, 214);
+    text-align: center;
+    font-size: 20px;
+    margin-top: -35px;
+    margin-bottom: 40px
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.navigation {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.navigation a:nth-child(0) {
+    margin-right: 50px; 
+  }
+  .navigation a:nth-child(1) {
+    margin-right: 50px; 
+  }
+.navigation a:nth-child(2) {
+    margin-right: 50px; 
+  }
+
+.navigation a:nth-child(3) {
+    margin-right: 50px; 
+  }
+.navigation a:nth-child(4) {
+    margin-right: 50px; 
+  }
+
+img {
+    width: 500px; 
+    height: 500px; 
+  }
+
+  .site-images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  
